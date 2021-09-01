@@ -1,7 +1,7 @@
 <h1 align="center">Heyo 👋, I'm Samarth !</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **A discord sb**
+- 🔭 I’m currently working on **Discord sb**
 
 - 🌱 I’m currently learning **js**
 
